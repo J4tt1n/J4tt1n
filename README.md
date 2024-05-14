@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about C/C++, DSA, SQL and JavaScript<br><br>📫 How to reach me jattinjaggi2002@gmail.com<br><br>⚡ Fun fact I love trying out new recipes from different cuisines.
+<h2> 🔭 Check out my <a href="https://my-portfolio-rouge-delta.vercel.app/" target="_blank" >Portfolio</a></h2><br>🌱 I’m currently learning React<br><br>💬 Ask me about C/C++, DSA, SQL and JavaScript<br><br>📫 How to reach me jattinjaggi2002@gmail.com<br><br>⚡ Fun fact I love trying out new recipes from different cuisines.
 
 
 ## 🌐 Socials:
